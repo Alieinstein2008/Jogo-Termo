@@ -16,7 +16,7 @@
 
 O **Jogo-Termo** é um jogo de adivinhação de palavras inspirado no *Wordle* e no **Termo**, desenvolvido em **C++** para execução em ambiente de terminal.
 
-O projeto tem como foco demonstrar domínio de **lógica de programação**, **estruturas de controle**, **manipulação de strings**, **uso de arquivos** e **organização de código**, sendo ideal para fins acadêmicos e de portfólio.
+O projeto tem como foco demonstrar domínio de **lógica de programação**, **estruturas de controle**, **manipulação de strings**, **uso de arquivos** e **organização de código**, realizado para fins acadêmicos.
 
 ---
 
