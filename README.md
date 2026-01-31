@@ -22,7 +22,7 @@ O projeto tem como foco demonstrar domínio de **lógica de programação**, **e
 
 ## 🎯 Objetivo do Projeto
 
-Desenvolver um jogo funcional e intuitivo que permita ao usuário adivinhar uma palavra secreta de **5 letras** dentro de um número limitado de tentativas, recebendo feedback a cada jogada.
+Desenvolver um jogo funcional e intuitivo que permita ao usuário adivinhar uma palavra secreta de **4** , **6** ou **8** **letras** dentro de um número limitado de tentativas, recebendo feedback a cada jogada.
 
 Além do aspecto lúdico, o projeto busca consolidar conceitos fundamentais da programação em C++.
 
